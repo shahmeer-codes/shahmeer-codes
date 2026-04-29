@@ -1,33 +1,38 @@
-## 💻 Technical Skills
+# Hi there, I'm Shahmeer Arshad 👋
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### State Management
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+🚀 MERN & Next.js Developer  
+💡 Building scalable and high-performance web applications  
 
 ---
 
-## 📊 GitHub Statistics
+## 💡 About Me
+
+I'm a **MERN & Next.js Developer from Pakistan 🇵🇰**, focused on building scalable, production-ready web applications.
+
+I specialize in **frontend architecture using React & Next.js**, while also working with backend APIs using Node.js and Next.js API routes.
+
+I enjoy working on:
+- Real-world product development  
+- SaaS-based applications  
+- Performance optimization  
+- Clean and maintainable codebases  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+React · Next.js · TypeScript · Redux Toolkit · Tailwind CSS
+
+### ⚙️ Backend
+Node.js · Express.js · Next.js API Routes · MongoDB · Mongoose
+
+### 🧪 Tools
+Git · GitHub · Postman · Figma
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahmeer-codes&show_icons=true&theme=dark&hide_border=true&count_private=true" />
@@ -38,10 +43,39 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-codes&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-codes&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-## 🔗 Profile Views
-[![](https://visitcount.itsvg.in/api?id=shahmeer-codes&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📂 Featured Projects
+
+### 🔧 BookVault — Multi-Vendor Book Marketplace (SaaS)
+A scalable multi-vendor platform with authentication, role-based access, and inventory management.
+
+---
+
+### 📝 Blog Platform (MERN Stack)
+Full-stack blog system with authentication, CRUD features, and API integration.
+
+---
+
+### 🔐 NextAuth Authentication System
+Secure authentication system using Next.js and NextAuth with JWT sessions.
+
+---
+
+## 📬 Connect With Me
+
+- 📧 Email: shahmeer.arshad.dev@gmail.com  
+- 💼 GitHub: https://github.com/shahmeer-codes  
+
+---
+
+## ❤️ Support
+
+If you like my work, feel free to ⭐ my repositories.
+
+Most of my projects are built for learning, experimentation, and real-world product development.
+
+Thanks for visiting! 🚀
