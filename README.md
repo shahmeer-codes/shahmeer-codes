@@ -1,4 +1,4 @@
-# Hi there, I'm Shahmeer Arshad 👋
+# 👋 Hi there, I'm Shahmeer Arshad
 
 🚀 MERN & Next.js Developer  
 💡 Building scalable and high-performance web applications  
@@ -12,23 +12,24 @@ I'm a **MERN & Next.js Developer from Pakistan 🇵🇰**, focused on building s
 I specialize in **frontend architecture using React & Next.js**, while also working with backend APIs using Node.js and Next.js API routes.
 
 I enjoy working on:
-- Real-world product development  
-- SaaS-based applications  
-- Performance optimization  
-- Clean and maintainable codebases  
+
+- 🏗️ Real-world product development  
+- ☁️ SaaS-based applications  
+- ⚡ Performance optimization  
+- 🧹 Clean and maintainable codebases  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-React · Next.js · TypeScript · Redux Toolkit · Tailwind CSS
+⚛️ React · ▲ Next.js · 📘 TypeScript · 🧠 Redux Toolkit · 🎨 Tailwind CSS  
 
 ### ⚙️ Backend
-Node.js · Express.js · Next.js API Routes · MongoDB · Mongoose
+🟢 Node.js · ⚙️ Express.js · 🔗 Next.js API Routes · 🍃 MongoDB · 🧩 Mongoose  
 
 ### 🧪 Tools
-Git · GitHub · Postman · Figma
+🔧 Git · 🐙 GitHub · 📮 Postman · 🎨 Figma  
 
 ---
 
@@ -51,31 +52,31 @@ Git · GitHub · Postman · Figma
 ## 📂 Featured Projects
 
 ### 🔧 BookVault — Multi-Vendor Book Marketplace (SaaS)
-A scalable multi-vendor platform with authentication, role-based access, and inventory management.
+📦 Scalable platform with authentication, RBAC, and inventory management.
 
 ---
 
 ### 📝 Blog Platform (MERN Stack)
-Full-stack blog system with authentication, CRUD features, and API integration.
+🧠 Full-stack blog system with authentication, CRUD features, and API integration.
 
 ---
 
 ### 🔐 NextAuth Authentication System
-Secure authentication system using Next.js and NextAuth with JWT sessions.
+🔒 Secure authentication system using Next.js + JWT sessions.
 
 ---
 
 ## 📬 Connect With Me
 
-- 📧 Email: shahmeer.arshad.dev@gmail.com  
-- 💼 GitHub: https://github.com/shahmeer-codes  
+📧 Email: shahmeer.arshad.dev@gmail.com  
+🐙 GitHub: https://github.com/shahmeer-codes  
 
 ---
 
 ## ❤️ Support
 
-If you like my work, feel free to ⭐ my repositories.
+⭐ If you like my work, feel free to star my repositories.
 
-Most of my projects are built for learning, experimentation, and real-world product development.
+🚀 Most projects are built for learning, experimentation, and real-world development.
 
-Thanks for visiting! 🚀
+Thanks for visiting!
