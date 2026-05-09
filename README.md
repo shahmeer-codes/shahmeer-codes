@@ -1,5 +1,13 @@
 # 👋 Hi there, I'm Shahmeer Arshad
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=MERN+Developer;Next.js+Engineer;SaaS+Builder;Clean+%26+Scalable+Code" />
+</p>
+
 🚀 MERN & Next.js Developer  
 💡 Building scalable and high-performance web applications  
 
@@ -46,7 +54,9 @@ I enjoy working on:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📈 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahmeer-codes&show_icons=true&theme=dark&hide_border=true&count_private=true" />
@@ -58,6 +68,22 @@ I enjoy working on:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-codes&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeer-codes&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
