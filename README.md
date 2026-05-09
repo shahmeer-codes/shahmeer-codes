@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=MERN+Developer;Next.js+Engineer;SaaS+Builder;Clean+%26+Scalable+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=MERN+Developer;Next.js+Engineer;Frontend+Architecture+Builder;Clean+%26+Scalable+Systems" />
 </p>
 
 🚀 MERN & Next.js Developer  
@@ -15,16 +15,14 @@
 
 ## 💡 About Me
 
-I'm a **MERN & Next.js Developer from Pakistan 🇵🇰**, focused on building scalable, production-ready web applications.
+I'm a **MERN & Next.js Developer from Pakistan 🇵🇰**, focused on building production-grade applications with modern web technologies.
 
-I specialize in **frontend architecture using React & Next.js**, while also working with backend APIs using Node.js and Next.js API routes.
+I specialize in:
 
-I enjoy working on:
-
-- 🏗️ Real-world product development  
-- ☁️ SaaS-based applications  
-- ⚡ Performance optimization  
-- 🧹 Clean and maintainable codebases  
+- ⚛️ React & Next.js frontend architecture  
+- 🔗 API development with Node.js & Next.js API routes  
+- ⚡ Performance optimization & scalable UI systems  
+- 🧹 Clean architecture & maintainable codebases  
 
 ---
 
@@ -56,7 +54,7 @@ I enjoy working on:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Live Stats (Real-Time)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahmeer-codes&show_icons=true&theme=dark&hide_border=true&count_private=true" />
@@ -67,12 +65,12 @@ I enjoy working on:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-codes&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-codes&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Real-Time Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeer-codes&theme=react-dark" />
@@ -80,28 +78,23 @@ I enjoy working on:
 
 ---
 
-## 🐍 Contribution Snake
+## ⏰ Live Clock
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://clock-widget.vercel.app/api/simple?timezone=Asia/Karachi" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 📌 Pinned Repositories (Auto-Updated)
 
-### 🔧 BookVault — Multi-Vendor Book Marketplace (SaaS)
-📦 Scalable platform with authentication, RBAC, and inventory management.
+👉 Your pinned repositories will automatically appear on your GitHub profile.
 
----
+OR you can use this:
 
-### 📝 Blog Platform (MERN Stack)
-🧠 Full-stack blog system with authentication, CRUD features, and API integration.
-
----
-
-### 🔐 NextAuth Authentication System
-🔒 Secure authentication system using Next.js + JWT sessions.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahmeer-codes&repo=YOUR_REPO_NAME" />
+</p>
 
 ---
 
@@ -109,13 +102,14 @@ I enjoy working on:
 
 📧 Email: shahmeer.arshad.dev@gmail.com  
 🐙 GitHub: https://github.com/shahmeer-codes  
+🇵🇰 Location: Pakistan  
 
 ---
 
-## ❤️ Support
+## ❤️ Closing
 
-⭐ If you like my work, feel free to star my repositories.
-
-🚀 Most projects are built for learning, experimentation, and real-world development.
+🚀 Focused on building real-world scalable systems  
+⚡ Always learning modern web architecture  
+💡 Open to collaboration and production-level projects  
 
 Thanks for visiting!
