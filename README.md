@@ -44,7 +44,6 @@ I enjoy working on:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -52,22 +51,24 @@ I enjoy working on:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=shahmeer-codes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=shahmeer-codes&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=shahmeer-codes&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=shahmeer-codes&theme=radical&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-codes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-codes&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
   />
 </p>
-
 ---
 
 ## 📂 Featured Projects
