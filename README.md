@@ -46,20 +46,21 @@ I enjoy working on:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
 ## 📈 GitHub Stats
 
-‎<p align="center">
-‎  <img src="https:apiithub-readme-stats.vercel.app/api?username=shahmeer-codes&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-‎</p>
-‎
-‎<p align="center">
-‎  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeer-codes&theme=dark&hide_border=true" />
-‎</p>
-‎
-‎<p align="center">
-‎  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-codes&layout=compact&theme=dark&hide_border=true" />
-‎</p>
-‎
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahmeer-codes&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeer-codes&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-codes&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ---
 
