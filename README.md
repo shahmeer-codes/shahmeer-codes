@@ -51,15 +51,21 @@ I enjoy working on:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahmeer-codes&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shahmeer-codes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeer-codes&theme=dark&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=shahmeer-codes&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-codes&layout=compact&theme=dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-codes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  />
 </p>
 
 ---
