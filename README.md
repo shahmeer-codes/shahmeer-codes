@@ -5,8 +5,8 @@
   ### Software Engineer | MERN & Next.js developer 
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+%26+Next.js+Transforming;Performance+Optimization+Transforminging+Ideas+Into+Code" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&height=100&pause=1000&color=38B2AC&center=true&vCenter=true&width=1200&lines=Building+Scalable+Web+Applications;MERN+%26+Next.js+Developer;Performance+Optimization;Transforming+Ideas+Into+Code" alt="Typing SVG" />
+</a>
 
   <p align="center">
     <a href="https://shahmeer-arshad.vercel.app/">
