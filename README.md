@@ -1,92 +1,97 @@
-# 👋 Hi there, I'm Shahmeer Arshad
+<div align="center">
+  
+  # 👋 Hi, I'm Shahmeer Arshad
 
-🚀 MERN & Next.js Developer  
-💡 Building scalable and high-performance web applications  
+  ### Software Engineer | MERN & Next.js Specialist
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+%26+Next.js+Developer;Performance+Optimization+Enthusiast;Transforming+Ideas+Into+Code" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="mailto:shahmeer.arshad.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
 ## 💡 About Me
 
-I'm a **MERN & Next.js Developer from Pakistan 🇵🇰**, focused on building scalable, production-ready web applications.
+I am a Software Developer from Pakistan 🇵🇰 focused on architecting scalable, production-ready web applications. I specialize in frontend development with **React and Next.js**, complemented by robust backend API design using **Node.js, Express, and Next.js API routes**. 
 
-I specialize in **frontend architecture using React & Next.js**, while also working with backend APIs using **Node.js** and **Next.js API routes**.
+I approach development with a Software Engineering mindset: prioritizing clean, maintainable codebases, performance optimization, and solving real-world business problems.
 
-I enjoy working on:
-
-- 🏗️ Real-world product development  
-- ☁️ SaaS-based applications  
-- ⚡ Performance optimization  
-- 🧹 Clean and maintainable codebases  
+*   **🏗️ What I Do:** Full-stack product development and SaaS application architecture.
+*   **🌱 Currently Exploring:** NestJS, Prompt Engineering, Agentic AI, and AI-native development workflows (Windsurf).
+*   **🤝 Open To:** Roles as a Frontend or Full-Stack Developer, open-source collaborations, and tech discussions.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tools
 
-### 🌐 Frontend
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  **Frontend Architecture** <br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
----
+  <br/><br/>
+  **Backend & Databases** <br/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" alt="Mongoose" />
 
-### ⚙️ Backend
+  <br/><br/>
+  **Workflow & Tools** <br/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Next.js API](https://img.shields.io/badge/Next.js_API-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
-
----
-
-### 🧪 Tools
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeer-codes&theme=radical&hide_border=true" /> </p> <p align="center">  <img width="63%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahmeer-codes&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeer-codes&theme=rogue&hide_border=true&area=true" /> </p>
+</div>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔧 BookVault — Multi-Vendor Book Marketplace (SaaS)
+### [🔧 BookVault — Multi-Vendor Book Marketplace (SaaS)](#) 
+> A highly scalable SaaS platform featuring a secure authentication flow, Role-Based Access Control (RBAC), and robust inventory management. Designed for performance and a seamless user experience.
+> *   **Tech Stack:** Next.js • React • Node.js • MongoDB • Tailwind CSS
 
-📦 Scalable platform with authentication, RBAC, and inventory management.
+### [📝 MERN Stack Blog Platform](#) 
+> A comprehensive full-stack content management system. Features include secure user authentication, complete CRUD operations for articles, and seamless RESTful API integration.
+> *   **Tech Stack:** MongoDB • Express.js • React • Node.js 
 
----
+### [🔐 NextAuth Security Architecture](#) 
+> A robust, production-ready authentication system leveraging Next.js and JWT sessions. Built to handle secure route protection and user session management.
+> *   **Tech Stack:** Next.js • NextAuth.js • JWT
 
-### 📝 Blog Platform (MERN Stack)
-
-🧠 Full-stack blog system with authentication, CRUD features, and API integration.
-
----
-
-### 🔐 NextAuth Authentication System
-
-🔒 Secure authentication system using Next.js + JWT sessions.
+*(Note: Click the titles to view the source code and live demos!)*
 
 ---
 
-## 📬 Connect With Me
+## 📈 GitHub Analytics
 
-📧 Email: **shahmeer.arshad.dev@gmail.com**  
-🐙 GitHub: **https://github.com/shahmeer-codes**
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeer-codes&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeer-codes&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
 
----
+<br/>
 
-## ❤️ Support
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahmeer-codes&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
-⭐ If you like my work, feel free to star my repositories.  
-
-🚀 Most projects are built for learning, experimentation, and real-world development.  
-
-Thanks for visiting!
+<p align="center">
+  ⭐ <i>Most projects are built for continuous learning, experimentation, and real-world product development. Thanks for visiting!</i>
+</p>
