@@ -5,7 +5,7 @@
   ### Software Engineer | MERN & Next.js developer 
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+%26+Next.js+Developer;Performance+Optimization+Enthusiast;Transforming+Ideas+Into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;MERN+Stack+%26+Next.js+Developer;Building+Scalable+Web+Applications;Exploring+System+Design+%26+Cloud+Basics;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
   </a>
 
   <p align="center">
