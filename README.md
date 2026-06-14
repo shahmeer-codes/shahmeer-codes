@@ -5,7 +5,7 @@
   ### Software Engineer | MERN & Next.js developer 
 
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&height=300&pause=1000&color=38B2AC&center=true&vCenter=true&100200&lines=Building+Scalable+Web+Applications;MERN+%26+Next.js+Developer;Performance+Optimization;Transforming+Ideas+Into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&height=100&pause=1000&color=38B2AC&center=true&vCenter=true&width=1200&lines=Building+Scalable+Web+Applications;MERN+%26+Next.js+Developer;Performance+Optimization;Transforming+Ideas+Into+Code" alt="Typing SVG" />
 </a>
 
   <p align="center">
@@ -31,7 +31,7 @@ I am a Software Developer from Pakistan 🇵🇰 focused on architecting scalabl
 I approach development with a Software Engineering mindset: prioritizing clean, maintainable codebases, performance optimization, and solving real-world business problems.
 
 *   **🏗️ What I Do:** Full-stack product development and SaaS application architecture.
-*   **🌱 Currently Exploring:** Nextjs, Prompt Engineering, Generative AI, AI Integration amd React native.
+*   **🌱 Currently Exploring:** Nextjs, Prompt Engineering, Generative AI, AI Integration and React native.
 *   **🤝 Open To:** Roles as a Frontend or Full-Stack Developer, open-source collaborations, and tech discussionandk & Tools
 
 <div align="center">
