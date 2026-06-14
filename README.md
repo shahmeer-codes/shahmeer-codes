@@ -9,6 +9,9 @@
   </a>
 
   <p align="center">
+    <a href="https://shahmeer-arshad.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="mailto:shahmeer.arshad.dev@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -91,7 +94,8 @@ I approach development with a Software Engineering mindset: prioritizing clean, 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahmeer-codes&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <!-- The Green Boxes Commits Graph -->
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahmeer-codes" alt="Commits Graph" />
 </div>
 
 <br/>
